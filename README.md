@@ -10,7 +10,7 @@
     <br/>
     <a href="#"><strong>View Demo »</strong></a>
     <br/>
-  <img src="https://i.imgur.com/ZjmSAq5.mp4">
+  <img src="https://i.imgur.com/ZjmSAq5.gif">
   </p>
   <hr>
    <p align="center">
